@@ -21,7 +21,7 @@ Instead of having to read through an entire list of grocery items, users will ha
 - Java
 - Springboot
 - MySQL
-- Persistence
+- Hibernate
 - Thymeleaf
 
 ### What I'll Have to Learn
